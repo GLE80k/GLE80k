@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gleb
 
-<!--
-**GLE80k/GLE80k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Data Processing & Artificial Intelligence at MEPhI.
 
-Here are some ideas to get you started:
+Currently building a strong foundation in Python, mathematics, statistics, data analysis, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My long-term focus is **Machine Learning Engineering and AI**.
+
+## Currently learning
+
+- Python
+- NumPy & Pandas
+- Probability & Mathematical Statistics
+- Data Analysis
+- SQL & PostgreSQL
+- Git & GitHub
+- Machine Learning fundamentals
+
+## Current focus
+
+**Python → Data Analysis → Mathematics → Machine Learning → Deep Learning**
+
+Building projects and documenting my progress along the way.
